@@ -1,0 +1,24 @@
+button {
+    border: 0;
+    background: none;
+}
+
+.container {
+    /* border: solid; */
+    margin-top: 10%;
+    border-radius: 10px;
+    background: white;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+	            10px 25px 50px 10px rgba(0, 0, 0, 0.1);
+}
+
+#nro_cep {
+    font-size: 24px;
+    padding: 10px 0 10px 80px;
+    border: none;
+    outline: 0;
+}
+
+h5{
+    text-align: center;
+}
